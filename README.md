@@ -1,2 +1,24 @@
-# Jihye Lee
-### Hi there 👋
+# LJiHye
+
+Hi there 👋
+
+### 🔭 I’m currently working on...
+- [Diffense](https://diffense.com/) as `internship`
+- `Senior` at one college in Seoul
+
+### ✏ I'm majoring in...
+- Information Security
+
+### 🌱 I’m currently learning...
+> all about security!
+
+- Blockchain
+- Browser engine (Webkit)
+  - [Related project](https://github.com/Hacker-s-PlayStation/PlayStation4-Hacking-Guideline)
+- etc
+
+### ⚡ I wanna...
+- be a security researcher or consultant
+- grow as an expert *(now I ma junior)*
+- study about IoT/Mobile hacking, Reversing.. and so on
+  - I'm interested in so many field and looking for my way
