@@ -10,7 +10,7 @@ Hi there 👋
 - Information Security
 
 ### 🌱 I’m currently learning...
-> all about security!
+> All about security!
 
 - Blockchain
 - Browser engine (Webkit)
@@ -20,5 +20,6 @@ Hi there 👋
 ### ⚡ I wanna...
 - be a security researcher or consultant
 - grow as an expert *(now I ma junior)*
-- study about IoT/Mobile hacking, Reversing.. and so on
-  - I'm interested in so many field and looking for my way
+- study about IoT/Mobile security, Reversing, and so on
+
+> I'm interested in so many field and looking for my way!
