@@ -14,7 +14,8 @@ Hi there 👋
 
 - Blockchain
 - Browser engine (Webkit)
-  - [Related project](https://github.com/Hacker-s-PlayStation/PlayStation4-Hacking-Guideline)
+  - Related project : [PlayStation4-Hacking-Guideline (BoB 9th)](https://github.com/Hacker-s-PlayStation/PlayStation4-Hacking-Guideline)
+- IoT Device (Router, NAS, IP Camera)
 - etc
 
 ### ⚡ I wanna...
