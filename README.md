@@ -4,7 +4,7 @@ Hi there 👋
 
 ### 🔭 I’m currently working on...
 - [Diffense](https://diffense.com/) as `security researcher` (2021/03~)
-- `Graduated` from a university in Seoul
+- `Graduated` from one university in Seoul
 
 ### ✏ I'm majoring in...
 - Information Security
