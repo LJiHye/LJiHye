@@ -3,7 +3,7 @@
 Hi there 👋
 
 ### 🔭 I’m currently working on...
-- [Diffense](https://diffense.com/) as `internship`
+- [Diffense](https://diffense.com/) as `security researcher` (2021/03~)
 - `Senior` at one college in Seoul
 
 ### ✏ I'm majoring in...
